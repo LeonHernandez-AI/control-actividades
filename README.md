@@ -14,5 +14,13 @@ Preparar la estructura inicial de un proyecto utilizando Python, Git y GitHub.
 - GitHub
 
 ## Autor
+León Rodrigo Herández Moreno
 
-Nombre completo
+
+## Estado del proyecto
+
+Proyecto en etapa inicial.
+
+## Control de versiones
+
+El proyecto utiliza Git para control de versiones y GitHub como repositorio remoto.
